@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600080851680",
+    "project_id": "probashi-new",
+    "storage_bucket": "probashi-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600080851680:android:fee85256af5088d3c02685",
+        "android_client_info": {
+          "package_name": "com.extreme.probashi1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600080851680-e0kdcl838a340pteimp9hov4gi23fjkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.extreme.probashi1",
+            "certificate_hash": "b41ab4d9086927446496570641657f80371707b5"
+          }
+        },
+        {
+          "client_id": "600080851680-afe7cqjretv2asa9aodm1imckn14v518.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0_3kmNvElCwfDLK6k8MfNGGXDDVgQ88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600080851680-afe7cqjretv2asa9aodm1imckn14v518.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
